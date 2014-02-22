@@ -10,18 +10,18 @@ a {
 }
 
 h1 {
-  font-size: 1.750em;
+  font-size: 1.950em;
   letter-spacing: -1.5px;
 }
 
 h2 {
-  font-size: 1.200em;
+  font-size: 1.20em;
   color: #780000;
 }
 
 .grid_3 img {
   border: 4px solid #707070;
-  margin: 0 0 40px 70px;
+  margin: 0 0 40px 0px;
 }
 
 .grid_4 img {
@@ -78,10 +78,6 @@ ul.nav li a {
   margin: 15px 0px;
   text-align: center;
 }
-
-
-
-
 
 
 
